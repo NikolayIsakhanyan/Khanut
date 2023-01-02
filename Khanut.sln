@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Khanut", "Khanut\Khanut.csproj", "{42E405B7-A08E-424A-970C-D764DFC17DD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{F70735C0-6646-4748-B48B-B6581FEB6315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E405B7-A08E-424A-970C-D764DFC17DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E405B7-A08E-424A-970C-D764DFC17DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E405B7-A08E-424A-970C-D764DFC17DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E405B7-A08E-424A-970C-D764DFC17DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F70735C0-6646-4748-B48B-B6581FEB6315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70735C0-6646-4748-B48B-B6581FEB6315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70735C0-6646-4748-B48B-B6581FEB6315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70735C0-6646-4748-B48B-B6581FEB6315}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD0CFB7B-62AC-4C49-8379-2E0CFF525721}
+	EndGlobalSection
+EndGlobal
